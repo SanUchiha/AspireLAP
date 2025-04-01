@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "H8KNrY+cR2lcPAcWE7MKQ5cWVky8TNml8w8ua1kpBXg=",
+  "Source": "AspireLAP.ApiService",
+  "BasePath": "_content/AspireLAP.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

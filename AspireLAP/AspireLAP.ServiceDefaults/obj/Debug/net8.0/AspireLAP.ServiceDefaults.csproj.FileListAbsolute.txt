@@ -1,0 +1,13 @@
+C:\Fork\AspireLAP\AspireLAP\AspireLAP\AspireLAP.ServiceDefaults\bin\Debug\net8.0\AspireLAP.ServiceDefaults.deps.json
+C:\Fork\AspireLAP\AspireLAP\AspireLAP\AspireLAP.ServiceDefaults\bin\Debug\net8.0\AspireLAP.ServiceDefaults.dll
+C:\Fork\AspireLAP\AspireLAP\AspireLAP\AspireLAP.ServiceDefaults\bin\Debug\net8.0\AspireLAP.ServiceDefaults.pdb
+C:\Fork\AspireLAP\AspireLAP\AspireLAP\AspireLAP.ServiceDefaults\obj\Debug\net8.0\AspireLAP.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Fork\AspireLAP\AspireLAP\AspireLAP\AspireLAP.ServiceDefaults\obj\Debug\net8.0\AspireLAP.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fork\AspireLAP\AspireLAP\AspireLAP\AspireLAP.ServiceDefaults\obj\Debug\net8.0\AspireLAP.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Fork\AspireLAP\AspireLAP\AspireLAP\AspireLAP.ServiceDefaults\obj\Debug\net8.0\AspireLAP.ServiceDefaults.AssemblyInfo.cs
+C:\Fork\AspireLAP\AspireLAP\AspireLAP\AspireLAP.ServiceDefaults\obj\Debug\net8.0\AspireLAP.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Fork\AspireLAP\AspireLAP\AspireLAP\AspireLAP.ServiceDefaults\obj\Debug\net8.0\AspireLAP.ServiceDefaults.sourcelink.json
+C:\Fork\AspireLAP\AspireLAP\AspireLAP\AspireLAP.ServiceDefaults\obj\Debug\net8.0\AspireLAP.ServiceDefaults.dll
+C:\Fork\AspireLAP\AspireLAP\AspireLAP\AspireLAP.ServiceDefaults\obj\Debug\net8.0\refint\AspireLAP.ServiceDefaults.dll
+C:\Fork\AspireLAP\AspireLAP\AspireLAP\AspireLAP.ServiceDefaults\obj\Debug\net8.0\AspireLAP.ServiceDefaults.pdb
+C:\Fork\AspireLAP\AspireLAP\AspireLAP\AspireLAP.ServiceDefaults\obj\Debug\net8.0\ref\AspireLAP.ServiceDefaults.dll
